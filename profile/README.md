@@ -2,7 +2,7 @@
 
 **스터디의 기본적인 목표와 방향에 대해 기술합니다**
 
-***일자별 스터디<br>
+**일자별 스터디** <br>
 [2025.11.20](https://github.com/lotteonstudy/.github/wiki/2025.11.20) <br>
 
 [2025.12.17](https://github.com/lotteonstudy/.github/wiki/2025.12.17) <br>
