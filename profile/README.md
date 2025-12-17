@@ -1,12 +1,28 @@
 ## Hi there 👋
 
-<!--
+**스터디의 기본적인 목표와 방향에 대해 기술합니다.:**
 
-**Here are some ideas to get you started:**
+***언제 , 어디서 , 시간***<br>
+  언제 ? 한달에 2~3회 유동적으로 3주정도 텀<br>
+  어디서 ? 영민님 조인전까지는 여의도 조인후에는 신논현에서 하기로 정함<br>
+  퇴근 후 (오후 7시 )또는 반반차 (4시 퇴근)<br>
+  7시 진행시는 한시간 정도<br>
+  4시 진행시는 1시간 30분 정도 진행 이후 회식 또는 티타임 으로<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+***목적***
+  이직
+  시니어 프로그래머로써 오래 살아남을수 있도록
+
+무얼 할것이냐
+
+  코테 준비 --> 개인적으로 합시다.
+  면접준비 --> 모의 면접 질문 / 예상 질문에 대한 정리 / 이력서 작성기술
+  요즘 시니어 에게 요구되는 기술 및 자기 이력
+
+주제
+  언어 : 스프링 , 코틀린 , 파이썬
+  AI : 활용 및 트렌드
+  K8S : 개발자 영역에서 사용할수 있는 정도(기본적인 이해 , 구성 , 어플리케이션 배포)
+  이외에 자주 언급되는 미들웨어 들의 테스트 및 내용 공유
+  데브옵스 능력
+  클라우드 활용 능력
