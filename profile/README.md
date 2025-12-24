@@ -30,3 +30,8 @@
   이외에 자주 언급되는 미들웨어 들의 테스트 및 내용 공유<br>
   데브옵스 능력<br>
   클라우드 활용 능력<br>
+
+***계정***<br>
+구글 계정 
+lotteonstudy@gmail.com / LotteStudy123
+
