@@ -31,7 +31,3 @@
   데브옵스 능력<br>
   클라우드 활용 능력<br>
 
-***계정***<br>
-구글 계정 
-lotteonstudy@gmail.com / LotteStudy123
-
